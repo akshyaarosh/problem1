@@ -1,4 +1,5 @@
-let a="masai school";
+let a ="masai school";
 console.log(a);
-let b="A Transformation in Education";
+let b ="A Transformation in Education";
 console.log(b);
+
